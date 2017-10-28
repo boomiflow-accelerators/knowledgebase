@@ -1,4 +1,6 @@
-Players  
+Players
+
+Lets use this page to add players :\)  
   
-Lets use this page to add players :\)
+
 
