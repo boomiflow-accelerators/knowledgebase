@@ -1,6 +1,4 @@
 Players
 
-Lets use this page to add players :\)  
-  
-
+We should add players to the repro and link them here
 
