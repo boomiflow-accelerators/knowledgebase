@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Home](README.md)
 * [Players](players.md)
 * [Tools](tools.md)
 
