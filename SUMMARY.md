@@ -6,5 +6,5 @@
 * [Players](players.md)
 * [Tools](tools.md)
 * [Tips & Tricks](tips-and-tricks.md)
-  * [Provision](tips-and-tricks/provision.md)
+  * [Provision a custom tenant](tips-and-tricks/provision.md)
 
