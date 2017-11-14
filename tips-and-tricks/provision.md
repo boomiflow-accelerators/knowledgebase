@@ -16,5 +16,5 @@ With the following JSON:
 }
 ```
 
-
+If it worked you'll receive a confirmation email that requires you to confirm your email via the link.
 
