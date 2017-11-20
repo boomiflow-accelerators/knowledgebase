@@ -2,11 +2,7 @@
 
 #### What is a solution?
 
-
-
-
-
-
+Solutions are critical to successfully scaling within the enterpise as well as SMB space.
 
 #### Solution Package:
 
