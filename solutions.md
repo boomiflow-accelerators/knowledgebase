@@ -4,6 +4,10 @@
 
 
 
+
+
+
+
 #### Solution Package:
 
 1. Demo video \(2-5 minutes\): showing off how cool a solution can be.
@@ -11,8 +15,6 @@
 3. Solution document: outlines the various architectural options and flow implementation approaches, key pieces of information around team, delivery, technology, etc that need to be in place to be successful.
 4. Workshop \(day / 1/2 day\): walk through of the solution document as a training exercise
 5. Accreditation: some form of accreditation \(unofficial\) on the solution delivery that could be given to G/SIs interested in learning as well as customers
-
-
 
 #### Solution Benefits :
 
