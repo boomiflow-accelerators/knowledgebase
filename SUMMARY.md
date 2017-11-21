@@ -7,6 +7,7 @@
 * [Tools](tools.md)
 * [Tips & Tricks](tips-and-tricks.md)
   * [Provision a custom tenant](tips-and-tricks/provision.md)
+  * [Find Dependencies](tips-and-tricks/find-dependents.md)
 * [Solutions - Home](solutions.md)
   * [Employee Onboarding](solutions/employee-onboarding.md)
   * [Approval Process](solutions/approval-process.md)
